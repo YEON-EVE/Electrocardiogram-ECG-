@@ -13,4 +13,4 @@
 ## Model
   - 1d CNN
   - 2d CNN: transfer learning (pretrained model)
-    - ReaNet
+    - ResNet
