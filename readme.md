@@ -23,7 +23,7 @@
 
 #### Segmentation & Labeling
   - min-max scaling 후 2.5s 단위로 segmentation
-  - Class imbalance 가 심했기 때문에, Normal class 의 경우 무작위로 30%만 추출하여 모델 개발에 활
+  - Class imbalance 가 심했기 때문에, Normal class 의 경우 무작위로 30%만 추출하여 모델 개발에 활용
 
 #### Continuous wavelet transform
   - 
@@ -36,3 +36,5 @@
     - ResNet
 
 ## Result
+
+![ecg_result](https://github.com/YEON-EVE/Electrocardiogram-ECG-/assets/69179261/fecc0c3a-0240-4950-b876-146457288590)
