@@ -1,4 +1,3 @@
-
 ## Electrocardiogram
 
 ## Research topic
