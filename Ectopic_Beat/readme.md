@@ -13,7 +13,7 @@
 ### Dataset
 #### MIT-BIH Arrhymia database
   - 모델 개발에는 PhysioBank 의 MIT-BIH Arrhythmia database가 사용되었다.[2]
-  - 각 신호는 2가지 lead로 구성되는데, 대부분은 MLII, V1 이며 드물게 다른 lead 로 구성되어 있다. 일반적으로 MLII 에서 정상적인 QRS complexes 가 더 잘 관측되기 때문에, 본 연구에서는 MLII 를 사용하였다.[ref]
+  - 각 신호는 2가지 lead로 구성되는데, 대부분은 MLII, V1 이며 드물게 다른 lead 로 구성되어 있다. 일반적으로 MLII 에서 정상적인 QRS complexes 가 더 잘 관측되기 때문에, 본 연구에서는 MLII 를 사용하였다.[3]
 
 #### Class
   - Normal beat
@@ -42,6 +42,6 @@
 ![ecg_result](https://github.com/YEON-EVE/Electrocardiogram-ECG-/assets/69179261/fecc0c3a-0240-4950-b876-146457288590)
 
 ### Reference
-[1] Orini, Michele, et al. "Premature atrial and ventricular contractions detected on wearable-format electrocardiograms and prediction of cardiovascular events." European Heart Journal-Digital Health 4.2 (2023): 112-118.
-[2] Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. IEEE Eng in Med and Biol 20(3):45-50 (May-June 2001). (PMID: 11446209)
-[3] Qin, Qin, et al. "Combining low-dimensional wavelet features and support vector machine for arrhythmia beat classification." Scientific reports 7.1 (2017): 1-12.
+[1] Orini, Michele, et al. "Premature atrial and ventricular contractions detected on wearable-format electrocardiograms and prediction of cardiovascular events." European Heart Journal-Digital Health 4.2 (2023): 112-118.   
+[2] Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. IEEE Eng in Med and Biol 20(3):45-50 (May-June 2001). (PMID: 11446209)   
+[3] Qin, Qin, et al. "Combining low-dimensional wavelet features and support vector machine for arrhythmia beat classification." Scientific reports 7.1 (2017): 1-12.   
