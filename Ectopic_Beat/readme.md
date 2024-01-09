@@ -2,7 +2,7 @@
 # Electrocardiogram (ECG)
 ## Title: 연속 웨이블릿 변환과 전이 학습을 이용한 이소성 심장 박동 분류 모델(Ectopic beat classifier using a continuous wavelet transform and a transfer learning)
 * 본 연구는 2023 대한의료정보학회 추계 학술대회에 연제논문으로 제출 된 연구입니다.
-* 
+  
 ## Introduction
 심장 활동은 심장 섬유의 수축과 이완으로 인한 전류 흐름과 관련이 있다. 이러한 전기적 활동은 신체 표면에 적절히 배치된 전극을 사용하여 기록할 수 있으며, 이러한 전극 사이에서 측정 된 전위차를 심전도(Electrocardiogram; ECG) 신호 라고 한다.
 정상적인 심장 박동은 동방결절(sino-atrial node)에서 시작되는 주기적인 전기적 충격 때문에 발생한다. 이러한 충격이 동방결절 이외의 장소에서 발생한는 경우 심전도 신호가 불규칙하고 비정상적으로 나타나게 되는데, 이러한 신호를 이소성 심장 박동이라고 한다.
