@@ -38,3 +38,8 @@
 ## Result
 
 ![ecg_result](https://github.com/YEON-EVE/Electrocardiogram-ECG-/assets/69179261/fecc0c3a-0240-4950-b876-146457288590)
+
+
+### Reference
+[1]
+[2]
