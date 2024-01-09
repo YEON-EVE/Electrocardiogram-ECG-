@@ -1,5 +1,5 @@
 ## Electrocardiogram
-
+--------------------------------------
 ## Research topic
 ### Ectopic Beat classification
 - 심장 활동은 심장 섬유의 수축과 그에 따른 이완으로 인한 이온 전류 흐름과 관련이 있다. 이러한 전기적 활동은 신체 표면에 적절히 배치된 전극을 사용하여 기록할 수 있으며, 이러한 전극 사이에서 측정된 전위차를 심전도(Electrocardiogram; ECG) 신호라고 한다.
