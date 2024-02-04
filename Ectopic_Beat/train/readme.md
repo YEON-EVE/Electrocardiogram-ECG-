@@ -3,6 +3,7 @@
 
 ## EctopicBeat_GenerateModel.py
 - 여러가지 모델을 반환해주는 code
+- Resnet, VGGnet 등 다양한 구조 반환
 - model_name, num_class 을 전달받아 task에 맞는 구조의 모델 반환
 
 ## EctopicBeat_GenerateDataset.py
