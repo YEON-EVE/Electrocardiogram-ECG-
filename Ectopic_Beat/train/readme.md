@@ -9,9 +9,13 @@
 ## EctopicBeat_GenerateDataset.py
 - dataset 생성 code
 - signal pickle 파일과 data transform 등을 전달 받아 dataset 반환
+- transform 의 경우 현재는 raw signal, Continuous Wavelet Transform (CWT) 2가지
 
 ## EctopicBeat_foldsplit.py
 - k fold 학습을 위한 fold split code
 - train/validation/test set 반환
 - testset 의 경우 성능 검증 목적으로 train/validation 이 바뀌어도 변화 X
 - 생체신호 특성 상 동일한 subject가 train/validation/test set에 포함 될 경우 모델 성능에 영향을 줄 수 있으므로, 겹치지 않게 구성
+
+## EctopicBeat_train.py
+- 학습 코드
